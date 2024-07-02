@@ -11,6 +11,7 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+### >>
 ? In which directory is your code located? ./
 Local settings detected in vercel.json:
 No framework detected. Default Project Settings:        
