@@ -10,6 +10,20 @@ npm run dev
 
 # Build for production in the dist/ directory
 npm run build
+
+# To start upload to vercel
+npm install -g vercel
+
+# To login to vercel
+vercel login
+
+# Deploying Specific Branches 
+vercel --prod --branch <branch-name>
+
+
+
+
+
 ```
 ### >>
 ? In which directory is your code located? ./
